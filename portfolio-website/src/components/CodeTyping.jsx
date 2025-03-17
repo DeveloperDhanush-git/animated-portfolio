@@ -10,7 +10,7 @@ const TerminalContainer = styled.div`
   background: rgba(0, 0, 0, 0.1);
   padding: 120px 50px;
  
-  color: rgba(255, 244, 244, 0.2);
+  color: rgba(77, 255, 0, 0.2);
   font-family: "Courier New", monospace;
   font-size: 2rem;
   margin-top: 50px;

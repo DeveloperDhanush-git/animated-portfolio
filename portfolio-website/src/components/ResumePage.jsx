@@ -46,7 +46,7 @@ const Section = styled.section`
   background: transparent;
   color: white;
   position: absolute;
-  top: 630vh;
+  top: 650vh;
 `;
 
 const Title = styled.h1`
@@ -84,7 +84,7 @@ const ResumeIframe = styled.iframe`
 `;
 
 const DownloadButton = styled.a`
-  margin-top: 20px;
+  margin-top: 30px;
   display: flex;
   align-items: center;
   gap: 10px;

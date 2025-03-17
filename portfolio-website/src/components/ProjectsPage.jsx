@@ -12,7 +12,7 @@ const ProjectsContainer = styled.div`
   background: transparent;
   overflow: hidden;
   position: absolute;
-  top: 530vh;
+  top: 540vh;
 `;
 
 const ContentWrapper = styled.div`

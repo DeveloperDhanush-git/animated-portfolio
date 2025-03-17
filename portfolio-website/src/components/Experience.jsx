@@ -108,12 +108,11 @@ const glow = keyframes`
 /* Styled Components */
 const Section = styled.section`
   width: 100%;
-  padding: 80px 20px;
   background: transparent;
   color: white;
   text-align: center;
   position: absolute;
-  top: 350vh;
+  top: 370vh;
   
 `;
 
